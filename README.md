@@ -2,7 +2,7 @@
 
 ## I am a developer !
 
-- 🌱  Improving at Software Engineering | Javascript/Typescript | PHP | C# | Java 
+- 🌱  Improving at Software Engineering | Javascript | Typescript | PHP | C# | Java 
 - 🔍  Focused on the base to understand abstraction
 - 🥅  2025 Plans: Contributing to young people getting started in programming
 
